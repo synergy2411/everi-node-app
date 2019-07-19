@@ -56,3 +56,21 @@
 // const yargs = require("yargs");
 // console.log(process.argv);
 // console.log(yargs.argv)
+
+
+
+// npm adduser
+    // > username
+    // > password
+    // > email
+// npm publish
+
+// const fs = require("fs");
+// const gzip = require("zlib").createGzip();
+
+// const readStream = fs.createReadStream("./package.json");
+// const writeStream = fs.createWriteStream("./zipping");
+
+// readStream.pipe(gzip).pipe(writeStream);
+
+
