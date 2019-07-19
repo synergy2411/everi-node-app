@@ -41,14 +41,18 @@
 // })
 
 
-const fs = require("fs");
+// const fs = require("fs");
 
-// fs.readFile("./package.json", (err, data)=>{
-//     console.log(data.toString());
-// })
+// // fs.readFile("./package.json", (err, data)=>{
+// //     console.log(data.toString());
+// // })
 
-const data = fs.readFileSync("./package.json");
+// const data = fs.readFileSync("./package.json");
 
-console.log(data);
+// console.log(data);
 
-console.log("Hello FS");
+// console.log("Hello FS");
+
+// const yargs = require("yargs");
+// console.log(process.argv);
+// console.log(yargs.argv)
